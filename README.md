@@ -48,5 +48,8 @@
 	+ Rugby
 	+ Soccer (or football as we call it in France)
 
+**Quote:** 
+"You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I'll show you how deep the rabbit hole goes." - Morpheus (The Matrix) 💥
+
 **Status:**
 "Just spent the day coding in my pyjamas 😂"
