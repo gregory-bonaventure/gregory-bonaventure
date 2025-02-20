@@ -34,10 +34,16 @@
 	+ "Inception" (2010)
 	+ "Interstellar" (2014)
 	+ "The Matrix" (1999)
-	+ "Blade Runner 2049" (2017) 
+	+ "Blade Runner 2049" (2017)
+* **Quotes:** 
+	* "War is peace. Freedom is slavery. Ignorance is strength." - Big Brother (1984)
+	* "You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I'll show you how deep the rabbit hole goes." - Morpheus (The Matrix)
+	* "You are not your life, but you are the only person who can give meaning to it." - John Perry (Old Man's War) 
 * **Music:**
 	+ Jazz: Miles Davis, John Coltrane, Bill Evans
 	+ Classical: Chopin, Debussy, Mozart
+
+
 
 **Sports:**
 
@@ -47,9 +53,6 @@
 * Team sports:
 	+ Rugby
 	+ Soccer (or football as we call it in France)
-
-**Quote:** 
-"You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I'll show you how deep the rabbit hole goes." - Morpheus (The Matrix) 💥
 
 **Status:**
 "Just spent the day coding in my pyjamas 😂"
