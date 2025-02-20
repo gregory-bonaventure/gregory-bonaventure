@@ -18,10 +18,10 @@
 **Projects:**
 
 + Personal projects:
-  - A simple chatbot built with Python and NLTK 💬
+	- A simple chatbot built with Python and NLTK 💬
 	- A machine learning model for predicting stock prices using historical data
 + Open-source contributions:
-  - Contributed to the development of a popular open-source framework for building RESTful APIs
+	- Contributed to the development of a popular open-source framework for building RESTful APIs
 
 **Interests:**
 
