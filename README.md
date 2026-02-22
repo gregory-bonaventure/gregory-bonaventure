@@ -21,18 +21,13 @@ Previously: I wrote Java for a living. I still do, but I used to, too.
 
 ---
 
-<details>
-<summary>Projects</summary>
-
+**Projects:**
 - [mktflow](https://github.com/mktflow-io) — Real-time cryptocurrency market data collection and analysis
 - A machine learning model for predicting stock prices using historical data
 - A simple chatbot built with Python and NLTK
 - Contributed to the development of a popular open-source framework for building RESTful APIs
 
-</details>
-
-<details>
-<summary>Interests</summary>
+---
 
 **Books:** The Hitchhiker's Guide to the Galaxy · 1984 · The Alchemist · Sapiens
 
@@ -48,8 +43,6 @@ Previously: I wrote Java for a living. I still do, but I used to, too.
 **Music:** Jazz (Miles Davis, Coltrane, Bill Evans) · Classical (Chopin, Debussy, Mozart)
 
 **Sports:** Hiking in the French Alps · Rock climbing · Cycling · Rugby · Football
-
-</details>
 
 ---
 
