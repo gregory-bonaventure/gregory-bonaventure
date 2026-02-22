@@ -15,7 +15,7 @@ Previously: I wrote Java for a living. I still do, but I used to, too.
 
 **Languages:** `Java` · `Python` · `C++` · `JavaScript`
 
-**Tech:** `GraalVM native-image` · `Kubernetes` · `InfluxDB` · `AWS` · `Azure` · `Debian` · `GitHub Actions`
+**Tech:** `GraalVM native-image` · `Kubernetes` · `InfluxDB` · `AWS` · `Azure` · `Scaleway` · `Debian` · `GitHub Actions`
 
 **Practices:** Machine Learning · Scrum · Kanban
 
