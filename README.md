@@ -1,58 +1,35 @@
-**Grégory Bonaventure 🤖**
+```
+  ～  ～  ～  ～  ～
+  ～～～～～～～～～～
+  ～  ～  ～  ～  ～       Grégory Bonaventure
+  ～～～～～～～～～～
+```
 
-**About Me:** Software engineer, poet, and coffee enthusiast 😊. Passionate about leveraging technology to solve complex problems and make a positive impact on people's lives 🌎.
+Software engineer. I write Java, run bare-metal Kubernetes clusters,
+and collect real-time market data at [mktflow](https://github.com/mktflow-io).
 
-**Languages:**
+Previously: I wrote Java for a living. I still do, but I used to, too.
 
-* Java 💡
-* Python 🔥
-* C++ 🧮
-* JavaScript
+---
 
-**Technologies:**
+`Java` · `GraalVM native-image` · `Kubernetes` · `InfluxDB` · `Debian` · `GitHub Actions`
 
-* Cloud Computing (AWS, Azure) ☁️
-* Machine Learning 🔍
-* Agile methodologies (Scrum, Kanban)
+---
 
-**Projects:**
+<details>
+<summary>Interests</summary>
 
-+ Personal projects:
-	- A simple chatbot built with Python and NLTK 💬
-	- A machine learning model for predicting stock prices using historical data
-+ Open-source contributions:
-	- Contributed to the development of a popular open-source framework for building RESTful APIs
+**Books:** The Hitchhiker's Guide to the Galaxy · 1984 · The Alchemist · Sapiens
 
-**Interests:**
+**Movies:** Inception · Interstellar · The Matrix · Blade Runner 2049
 
-* **Books:** 
-	+ "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
-	+ "1984" by George Orwell
-	+ "The Alchemist" by Paulo Coelho
-	+ "Sapiens: A Brief History of Humankind" by Yuval Noah Harari 📚
-* **Movies:** 
-	+ "Inception" (2010)
-	+ "Interstellar" (2014)
-	+ "The Matrix" (1999)
-	+ "Blade Runner 2049" (2017)
-* **Quotes:** 
-	* "War is peace. Freedom is slavery. Ignorance is strength." - Big Brother (1984)
-	* "You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I'll show you how deep the rabbit hole goes." - Morpheus (The Matrix)
-	* "You are not your life, but you are the only person who can give meaning to it." - John Perry (Old Man's War) 
-* **Music:**
-	+ Jazz: Miles Davis, John Coltrane, Bill Evans
-	+ Classical: Chopin, Debussy, Mozart
+**Music:** Jazz (Miles Davis, Coltrane, Bill Evans) · Classical (Chopin, Debussy, Mozart)
 
+</details>
 
+---
 
-**Sports:**
-
-* Hiking in the French Alps 🏔️
-* Rock climbing 🔩
-* Cycling
-* Team sports:
-	+ Rugby
-	+ Soccer (or football as we call it in France)
-
-**Status:**
-"Just spent the day coding in my pyjamas 😂"
+```
+$ cat /dev/philosophy
+Build things that work. Keep them running. Read the logs.
+```
